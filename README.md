@@ -1,6 +1,6 @@
 # Decentralized Crowdfunding Platform
 
-## Project Description
+## Project Description 
 
 The Decentralized Crowdfunding Platform is a revolutionary blockchain-based smart contract system that transforms the traditional crowdfunding landscape by eliminating intermediaries and ensuring complete transparency. Built on the Ethereum blockchain using Solidity, this platform empowers project creators to launch funding campaigns while providing contributors with guaranteed protection and real-time visibility into project progress.
 
